@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d38f23b9-50d9-4a13-9223-42a740937e19" name="Default" comment="微信站交互">
+    <list default="true" id="d38f23b9-50d9-4a13-9223-42a740937e19" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/properties/jdbc.properties" afterPath="$PROJECT_DIR$/src/main/resources/properties/jdbc.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,8 +67,8 @@
       <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/properties/jdbc.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="108">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1099,7 +1098,7 @@
       <workItem from="1506507204709" duration="1429000" />
       <workItem from="1506563584473" duration="1197000" />
       <workItem from="1509416900041" duration="16663000" />
-      <workItem from="1509522105743" duration="15630000" />
+      <workItem from="1509522105743" duration="15716000" />
     </task>
     <task id="LOCAL-00001" summary="微信站初稿">
       <created>1506507975604</created>
@@ -1115,7 +1114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509618553031</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="微信站添加新表">
+      <created>1509692737109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509692737109</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1151,7 +1157,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39300000" />
+    <option name="totallyTimeSpent" value="39386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1238,7 +1244,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="微信站初稿" />
     <MESSAGE value="微信站交互" />
-    <option name="LAST_COMMIT_MESSAGE" value="微信站交互" />
+    <MESSAGE value="微信站添加新表" />
+    <option name="LAST_COMMIT_MESSAGE" value="微信站添加新表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1840,8 +1847,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/properties/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
