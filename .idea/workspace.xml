@@ -1098,7 +1098,7 @@
       <workItem from="1506507204709" duration="1429000" />
       <workItem from="1506563584473" duration="1197000" />
       <workItem from="1509416900041" duration="16663000" />
-      <workItem from="1509522105743" duration="15716000" />
+      <workItem from="1509522105743" duration="15743000" />
     </task>
     <task id="LOCAL-00001" summary="微信站初稿">
       <created>1506507975604</created>
@@ -1121,7 +1121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509692737109</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="微信站添加新表">
+      <created>1509692814793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509692814793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1157,7 +1164,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39386000" />
+    <option name="totallyTimeSpent" value="39413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
